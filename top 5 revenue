@@ -1,0 +1,6 @@
+"trip_id","driver_name","branch","trip_date","destination","distance_km","revenue","fuel_cost","other_expenses","status","customer_type"
+1006,"Sarah Adams","Abuja","2026-09-06","Kano",980.00,300000,198000,25000,"Completed","Corporate"
+1016,"Musa Bello","Lagos","2026-09-16","Kano",850.00,280000,175000,22000,"Completed","Corporate"
+1012,"Sarah Adams","Abuja","2026-09-12","Abuja",760.00,260000,171000,15000,"Completed","Corporate"
+1001,"Musa Bello","Lagos","2026-09-01","Abuja",760.00,250000,162000,23000,"Completed","Corporate"
+1019,"Fatima Ali","Kano","2026-09-19","Abuja",760.00,240000,150000,20000,"Completed","Corporate"
